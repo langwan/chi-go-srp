@@ -5,7 +5,7 @@ Secure Remote Password For Go Client And Server.
 ## install
 
 ```
-go get github.com/langwan/chi_go_srp
+go get github.com/langwan/chi-go-srp
 ```
 
 ## js client
