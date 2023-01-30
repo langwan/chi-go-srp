@@ -2,6 +2,12 @@
 
 Secure Remote Password For Go Client And Server.
 
+## install
+
+```
+go get github.com/langwan/chi_go_srp
+```
+
 ## js client
 
 `@chihuo/srpclient` is js client only(support node/browserify), `chi_go_srp` is go server or client.
