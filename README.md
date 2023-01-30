@@ -1,4 +1,4 @@
-# chi_go_srp
+# chi-go-srp
 
 Secure Remote Password For Go Client And Server.
 
