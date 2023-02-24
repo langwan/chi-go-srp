@@ -3,6 +3,8 @@ package chi_go_srp
 import (
 	"crypto"
 	"crypto/rand"
+	_ "crypto/sha1"
+	_ "crypto/sha256"
 	"encoding/hex"
 	"errors"
 	"hash"
